@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SentencesGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_s025_answer_area_title">Rearrange and make the correct sentences\n by the following Tips.</string>
+    <string name="btn_s010_game_start">Start</string>
+    <string name="btn_s025_confirm">Confirm</string>
+
+</resources>
